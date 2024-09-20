@@ -2,12 +2,12 @@
 
 > Projeto final da disciplina **Java: Programação Orientada a Objetos* da formação em Residência TIC no Serratec. O programa foi desenvolvido em linguagem **Java**, versão 17, através da IDE **Eclipse**.
 
-## Descrição do Projeto
+## Descrição do Projeto ✨
 
 O projeto busca simular um programa de compra online no qual é possível consultar e alterar tabela de clientes, produtos e pedidos atraves do console. O sistema tem integração com banco de dados **PostgreSQL** onde busca informações pré definidas de: cadastro de clientes e produtos.
 
-## Diagramas
-[Confira aqui o DER do projeto!](link pro diagrama )
+## Diagramas 
+((https://drive.google.com/file/d/1YGCalqiqX52iYX2sX-2_w-ppUHbyesNj/view?usp=sharing))
 
 ## Funcionaliades do Projeto
 _O sistema implementado permite:_
